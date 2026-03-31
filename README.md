@@ -16,5 +16,5 @@ cat output.json
 ```
 
 ### Results
-- Results stored in output.json
+- Results stored in [output.json](./output.json)
 - [Console screenshot](./result.png)
