@@ -1,6 +1,4 @@
-# Zee5 TV Guide Scraper
-
-Web scraper that extracts TV program schedule data from the Zee5 TV Guide Listings
+# Scraper
 
 ### Prerequisites
 - Ruby 3.x
@@ -8,13 +6,12 @@ Web scraper that extracts TV program schedule data from the Zee5 TV Guide Listin
 
 ### Setup and installation
 ```
-git clone https://github.com/ycisir/task.git
-cd task
+git clone https://github.com/ycisir/scraper.git
+cd scraper
 bundle install
-ruby scraper.rb
+ruby main.rb
 cat output.json
 ```
 
 ### Results
 - Results stored in [output.json](./output.json)
-- [Console screenshot](./result.png)
